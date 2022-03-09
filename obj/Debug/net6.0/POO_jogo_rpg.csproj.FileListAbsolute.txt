@@ -1,0 +1,15 @@
+C:\Users\gdama\Documents\DIO\.net\POO_jogo_rpg\obj\Debug\net6.0\POO_jogo_rpg.csproj.AssemblyReference.cache
+C:\Users\gdama\Documents\DIO\.net\POO_jogo_rpg\obj\Debug\net6.0\POO_jogo_rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdama\Documents\DIO\.net\POO_jogo_rpg\obj\Debug\net6.0\POO_jogo_rpg.AssemblyInfoInputs.cache
+C:\Users\gdama\Documents\DIO\.net\POO_jogo_rpg\obj\Debug\net6.0\POO_jogo_rpg.AssemblyInfo.cs
+C:\Users\gdama\Documents\DIO\.net\POO_jogo_rpg\obj\Debug\net6.0\POO_jogo_rpg.csproj.CoreCompileInputs.cache
+C:\Users\gdama\Documents\DIO\.net\POO_jogo_rpg\bin\Debug\net6.0\POO_jogo_rpg.exe
+C:\Users\gdama\Documents\DIO\.net\POO_jogo_rpg\bin\Debug\net6.0\POO_jogo_rpg.deps.json
+C:\Users\gdama\Documents\DIO\.net\POO_jogo_rpg\bin\Debug\net6.0\POO_jogo_rpg.runtimeconfig.json
+C:\Users\gdama\Documents\DIO\.net\POO_jogo_rpg\bin\Debug\net6.0\POO_jogo_rpg.dll
+C:\Users\gdama\Documents\DIO\.net\POO_jogo_rpg\bin\Debug\net6.0\ref\POO_jogo_rpg.dll
+C:\Users\gdama\Documents\DIO\.net\POO_jogo_rpg\bin\Debug\net6.0\POO_jogo_rpg.pdb
+C:\Users\gdama\Documents\DIO\.net\POO_jogo_rpg\obj\Debug\net6.0\POO_jogo_rpg.dll
+C:\Users\gdama\Documents\DIO\.net\POO_jogo_rpg\obj\Debug\net6.0\ref\POO_jogo_rpg.dll
+C:\Users\gdama\Documents\DIO\.net\POO_jogo_rpg\obj\Debug\net6.0\POO_jogo_rpg.pdb
+C:\Users\gdama\Documents\DIO\.net\POO_jogo_rpg\obj\Debug\net6.0\POO_jogo_rpg.genruntimeconfig.cache
